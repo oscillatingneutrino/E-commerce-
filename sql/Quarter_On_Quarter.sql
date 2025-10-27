@@ -9,15 +9,10 @@ WITH qoq AS (
 				OVER (ORDER BY quarterly ASC))
 			/LAG(Online_marketing_services_and_others,1)
 				OVER (ORDER BY quarterly ASC) * 100) 
-					AS qoqr
-	FROM temu
-),
+					AS qoqr,
 
-revenue AS (
-	SELECT
+	-- Revenue Based Metrics
 	
-		quarterly,
-	    
 		Online_marketing_services_and_others + 
 			transaction_services 
 				AS revenue,
@@ -36,6 +31,8 @@ revenue AS (
 				transaction_services)
 					AS operating_margin,
                 
+
+-- Metrics for plotting
 		Receivables_from_online_payment_platforms, -- plot this against revenue
 		
 	    Cash_and_cash_equivalents, -- plot this vs revenue
@@ -48,6 +45,4 @@ revenue AS (
     FROM temu
 )
 
--- SELECT * FROM qoq;
-
--- SELECT * FROM temu
+SELECT * FROM qoq
