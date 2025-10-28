@@ -15,10 +15,10 @@
 - [Acknowledgments](#Acknowledgements)
 
 ## Project Background
-TEMU, the 2nd ranked E-Commerce site has seen recent growth amongst the general public as a result of its convenience and affordability, posing as a competitor to Amazon. Being a Chinese site, it is capable of being affected by new tariffs. This project analyzes the effects of tariffs and gives possible solutions to minimize the effects of tariffs on profitability.
+TEMU, the 2nd ranked E-Commerce site has seen recent growth amongst the general public as a result of its convenience and affordability, posing as a competitor to Amazon. Being a Chinese site, it is affected by new tariffs. This project analyzes the effects of tariffs and gives possible solutions to minimize the effects of tariffs on profitability.
 
 ## Tariffs Affecting E-Commerce From China
-Data from TEMU's profits for the 2nd quarter has been made available, and thus data from 2024 Q3 to 2025 Q2 is used. As such, information of tariffs only up to June 30th is used. Following is a simple timeline of tariffs passed relevant to e-commerce from China.
+Data from TEMU's profits for the 2nd quarter has been made available, and thus data from 2024 Q3 to 2025 Q2 is used. As such, the effect of tariffs only up to June 30th is used. Following is a simple timeline of tariffs passed relevant to e-commerce from China.
 
 
 ## Quarter on Quarter Growth
