@@ -34,9 +34,16 @@ Data from TEMU's profits for the 2nd quarter has been made available, and thus d
 ## Trends In Investments and Net Cash Over Time
 
 ## Trend in Public Interest
-Currently, sites like TEMU - for reasons related to security - do not publically publish data relating to customer retentionm or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. The following graphic shows a noticeably downwards trend in the popularity of TEMU. The red marking represent dates at which new tariffs were imposed.
+Currently, sites like TEMU - for reasons related to security - do not publically publish data relating to customer retentionm or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. 
+
+The following graphic shows a noticeably downwards trend in the popularity of TEMU. The red marking represent dates at which new tariffs were imposed. One can note a clear of popularity after July 2023, and a subsequent semi-consisten period of an average amount of searches until a spike around the beginning of 2025 and a continuous downwards trend soon after.
 
 ![BigGraph](png/BigGraph.png)
+
+A more refined analysis of the search behavior of potential and current customers shows a continuous downward trend that is consequent of the announcement of tariffs beginning on February 2nd, 2025. The most notable effect of tariffs was in that parcels (one of the more attractive selling points) would no longer be able to sell at reduces prices, and thus have to sell at prices similar to that american companies. Along with that growing distrust in Temu arrived as a result of questions concerning data privacy and the potential of getting low-quality products. These two factors are likely to have resulted in individuals losing trust in the company and having no financial incentive to outweigh their distrust in the foreign company. As such, the amount of traffic received by temu has significantly decreased since the beginning of 2025:
+
+![CloseSearch](png/CloseSearch.png)
+
 
 ## Recommendations
 
