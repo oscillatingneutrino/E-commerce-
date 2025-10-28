@@ -34,7 +34,7 @@ Data from TEMU's profits for the 2nd quarter has been made available, and thus d
 ## Trends In Investments and Net Cash Over Time
 
 ## Trend in Public Interest
-Currently, sites like TEMU - for reasons related to security - do not publically publish data relating to customer retentionm or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. 
+Currently, TEMU - for reasons related to security - do not publically publish data relating to customer retentionm or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. 
 
 The following graphic shows a noticeably downwards trend in the popularity of TEMU. The red marking represent dates at which new tariffs were imposed. One can note a clear of popularity after July 2023, and a subsequent semi-consisten period of an average amount of searches until a spike around the beginning of 2025 and a continuous downwards trend soon after.
 
