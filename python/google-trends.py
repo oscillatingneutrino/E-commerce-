@@ -14,7 +14,8 @@ y = 'temu'
 
 
 
-plt.figure()
+plt.figure(figsize=(10,5), dpi = 200)
+
 ax = df_75.plot(x, y , ax=plt.gca(), label ='Search Count')
 
 z = np.polyfit(df_75[x], df_75[y] , 1)
@@ -34,4 +35,4 @@ plt.title('Temu Searches Through the Course of Tariffs')
 
 plt.xlabel('Date Number')
 plt.ylabel('Search Count')
-plt.legend(loc = 'best')
+plt.legend(loc='center', bbox_to_anchor=(0.25, 0.2))
