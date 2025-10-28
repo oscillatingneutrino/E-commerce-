@@ -1,14 +1,15 @@
 WITH qoq AS (
 	SELECT 
+		Marker,
 		quarterly,
 	
         Online_marketing_services_and_others,
 	
 		((Online_marketing_services_and_others - 
 			LAG(Online_marketing_services_and_others,1) 
-				OVER (ORDER BY 'Index' ASC))
+				OVER (ORDER BY Marker ASC))
 			/LAG(Online_marketing_services_and_others,1)
-				OVER (ORDER BY 'Index' ASC) * 100) 
+				OVER (ORDER BY Marker ASC) * 100) 
 					AS qoqr,
 
 	-- Revenue Based Metrics
