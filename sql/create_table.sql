@@ -1,6 +1,7 @@
 
 
 CREATE TABLE temu (
+Marker INT,
 Quarterly TEXT,
 Online_marketing_services_and_others INT,
 Transaction_Services INT,
