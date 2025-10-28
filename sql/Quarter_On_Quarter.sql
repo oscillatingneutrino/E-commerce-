@@ -6,9 +6,9 @@ WITH qoq AS (
 	
 		((Online_marketing_services_and_others - 
 			LAG(Online_marketing_services_and_others,1) 
-				OVER (ORDER BY quarterly ASC))
+				OVER (ORDER BY index ASC))
 			/LAG(Online_marketing_services_and_others,1)
-				OVER (ORDER BY quarterly ASC) * 100) 
+				OVER (ORDER BY index ASC) * 100) 
 					AS qoqr,
 
 	-- Revenue Based Metrics
