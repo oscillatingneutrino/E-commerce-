@@ -47,6 +47,9 @@ A more refined analysis of the search behavior of potential and current customer
 
 ## Recommendations
 
+Being a foreign site, TEMU must not only face tariffs, but also a growing sense of distrust amongst individuals worried about the security of their data. Their ability to give foreign clients trust in their system is largely limited by the amount of people who will relate their negative experiences; stories that are likely to gain more and more traction amongst social media. This issue has always existed, but customers likely chose to ignore the risks to their data as a compromise to the low prices of attractive items sponsored through social media sites like TikTok. Since tariffs have reduced this aspect, TEMU must instead choose to continue to reach out to content creators and influencers, and buy advertisement spots across all forms of media in order to retain some trust and keep an image of the brand in the memory of people.
+
+
 ## Clarifications
 
 ## Acknowledgments
