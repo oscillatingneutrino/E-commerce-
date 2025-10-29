@@ -22,15 +22,15 @@ Data from TEMU's profits for the 2nd quarter has been made available, and thus d
 
 Feb 1, 2025
 	Trump Imposes a 10% on Chinese Goods ; De minimis exemption ended, making parcels face customs declarations and duties
-	April 2, 2025
+April 2, 2025
 	Trump increments total Chinese import tariffs to 54% and re-imposes the ban on de minimis exemptions
-	May 12, 2025
-	Trump reduces tariffs to 10%, China reduces their tariffs on the US to 30%, and the US creates a 90 day pause on new trade barriers. The de minimis rule is amended for low value shipments
-	May 30, 2025
+May 12, 2025
+	Trump reduces tariffs to 10%, China reduces their tariffs on the US to 30%, and the US creates a 90 day pause on new trade barriers. The de minimis rule is amended for low 		value shipments
+May 30, 2025
 	Trump states that China has not eased their rare-earth export restrictions, stating that the previous truce was broken
-	June 11, 2025
-	Trump proposes 55% tariffs on Chinese goods (10% universial _ extras). China agrees to supply rare earths and ease export licensing. US relaxes restrictions on Chinese students and some exchanges
-	June 27, 2025
+June 11, 2025
+	Trump proposes 55% tariffs on Chinese goods (10% universial _ extras). China agrees to supply rare earths and ease export licensing. US relaxes restrictions on Chinese students 	and some exchanges
+June 27, 2025
 	China has the option to approve export applications for controlled items. The US would also lift several restrictive measures.
 
 
