@@ -49,7 +49,8 @@ In contrast, the QOQ initially also give the notion that tariffs are responsible
 
 ## Profitability Ratios
 
-![Margin](
+![Margin](png/margin.png)
+
 In the graphic, the operating margin and the gross margin are compared throughout the set of quarter ranges. 
 ## Cash Flow Metrics
 
