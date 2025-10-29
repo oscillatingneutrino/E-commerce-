@@ -72,4 +72,4 @@ The issues with outreach are not limited to a foreign audience, however; TEMU mu
 ## Clarifications
 PDD Holding's (the parent company of TEMU) does not actively separate the finances from TEMU from their other ventures. As such, the data being used for this analysis only works as an intermediate for the actual revenue for TEMU. The currency used in this project is the Chinese Yuan; all of the reported numbers were presented and taken as unaudited.
 
-## Acknowledgments
+## Acknowledgements
