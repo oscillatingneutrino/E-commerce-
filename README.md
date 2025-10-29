@@ -41,15 +41,9 @@ June 27, 2025
 
 ## Growth Metrics
 
-## Quarter on Quarter Growth
+## Profitability Ratios
 
-## Revenue Based Analysis
-
-### Gross Margin and Tariffs
-
-### Marketing Efficiency Ratio
-
-### The Operating Margin
+## Cash Flow Metrics
 
 ## Trends In Investments and Net Cash Over Time
 
