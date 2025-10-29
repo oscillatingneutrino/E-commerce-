@@ -4,17 +4,11 @@
 - [Project Background](#Project-Background)
 - [Tariffs Affecting E-Commerce From China](#Tariffs-Affecting-E-Commerce-From-China)
 - [Growth Metrics](#Growth-Metrics)
-- [Quarter on Quarter Growth](##Quarter-on-Quarter-Growth)
-- [Revenue](##Revenue)
+
 - [Profitability Ratios](#Profitability-Ratios)
-- [Gross Margin](##Gross-Margin)
-- [Operating Margin](##Operating-Margin)
-- [Marketing Efficiency Ratio](##Marketing-Efficiency-Ratio)
+
 - [Cash Flow Metrics](#Cash-Flow-Metrics)
-- [Net Cash Generated From Operating Activities](##Net-cash-generated-from-operating-activities)
-- [Cash and cash equivalents](##Cash-and-Cash-Equivalents)
-- [Receivables From Online Payment Platforms](##Receivables-From-Online-Payment-Platforms)
-- [Short Term Investments](##Short-Term-Investments)
+
 - [Trends In Investments and Net Cash Over Time](#Trends-In-Investments-and-Net-Cash-Over-Time)
 - [Trend in Public Interest](#Trend-In-Public-Interest)
 - [Recommendations](#Recommendations)
