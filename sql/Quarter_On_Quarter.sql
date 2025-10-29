@@ -18,8 +18,8 @@ WITH qoq AS (
 			transaction_services 
 				AS revenue,
 	        
-	    Online_marketing_services_and_others + 
-			transaction_services - costs_of_revenues 
+	    100 * (Online_marketing_services_and_others + 
+			transaction_services - costs_of_revenues)/ (Online_marketing_services_and_others + transaction_services)
 				AS gross_margin,
 		
 		(Online_marketing_services_and_others + 
@@ -27,7 +27,7 @@ WITH qoq AS (
 				/sales_and_marketing_expenses 
 					AS marketing_efficiency_ratio,
 	                
-		operating_profit / 
+		100 * operating_profit / 
 			(Online_marketing_services_and_others + 
 				transaction_services)
 					AS operating_margin,
