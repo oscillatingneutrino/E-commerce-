@@ -9,7 +9,6 @@
 
 - [Cash Flow Metrics](#Cash-Flow-Metrics)
 
-- [Trends In Investments and Net Cash Over Time](#Trends-In-Investments-and-Net-Cash-Over-Time)
 - [Trend in Public Interest](#Trend-In-Public-Interest)
 - [Recommendations](#Recommendations)
 - [Clarifications](#Clarifications)
@@ -44,8 +43,6 @@ June 27, 2025
 ## Profitability Ratios
 
 ## Cash Flow Metrics
-
-## Trends In Investments and Net Cash Over Time
 
 ## Trend in Public Interest
 Currently, TEMU - for reasons related to security - do not publically publish data relating to customer retentionm or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. 
