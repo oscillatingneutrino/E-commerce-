@@ -3,7 +3,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from matplotlib import pylab as plb
 
-df = pd.read_csv('/Users/d404me/Downloads/google_data.csv')
+df = pd.read_csv('/Users/User/Path/google_data.csv')
 
 df_75 = df.tail(int(len(df) * 0.17))
 
