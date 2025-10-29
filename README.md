@@ -3,11 +3,18 @@
 ## Table of Contents
 - [Project Background](#Project-Background)
 - [Tariffs Affecting E-Commerce From China](#Tariffs-Affecting-E-Commerce-From-China)
-- [Quarter on Quarter Growth](#Quarter-on-Quarter-Growth)
-- [Revenue Based Analysis](#Revenue-Based-Analysis)
-- [Gross Margin and Tariffs](#Gross-Margin-and-Tariffs)
-- [Marketing Efficiency Ratio](#Marketing-Efficiency-Ratio)
-- [The Operating Margin](#Operating-Margin)
+- [Growth Metrics](#Growth-Metrics)
+- [Quarter on Quarter Growth](##Quarter-on-Quarter-Growth)
+- [Revenue](##Revenue)
+- [Profitability Ratios](#Profitability-Ratios)
+- [Gross Margin](##Gross-Margin)
+- [Operating Margin](##Operating-Margin)
+- [Marketing Efficiency Ratio](##Marketing-Efficiency-Ratio)
+- [Cash Flow Metrics](#Cash-Flow-Metrics)
+- [Net Cash Generated From Operating Activities](##Net-cash-generated-from-operating-activities)
+- [Cash and cash equivalents](##Cash-and-Cash-Equivalents)
+- [Receivables From Online Payment Platforms](##Receivables-From-Online-Payment-Platforms)
+- [Short Term Investments](##Short-Term-Investments)
 - [Trends In Investments and Net Cash Over Time](#Trends-In-Investments-and-Net-Cash-Over-Time)
 - [Trend in Public Interest](#Trend-In-Public-Interest)
 - [Recommendations](#Recommendations)
@@ -27,17 +34,18 @@ April 2, 2025
 	Trump increments total Chinese import tariffs to 54% and re-imposes the ban on de minimis exemptions
 
 May 12, 2025
-	Trump reduces tariffs to 10%, China reduces their tariffs on the US to 30%, and the US creates a 90 day pause on new trade barriers. The de minimis rule is amended for low 		value shipments
+	Trump reduces tariffs to 10%, China reduces their tariffs on the US to 30%, and the US creates a 90 day pause on new trade barriers. The de minimis rule is amended for low 	value shipments
 
 May 30, 2025
 	Trump states that China has not eased their rare-earth export restrictions, stating that the previous truce was broken
 
 June 11, 2025
-	Trump proposes 55% tariffs on Chinese goods (10% universial _ extras). China agrees to supply rare earths and ease export licensing. US relaxes restrictions on Chinese students 	and some exchanges
+	Trump proposes 55% tariffs on Chinese goods (10% universial _ extras). China agrees to supply rare earths and ease export licensing. US relaxes restrictions on Chinese students and some exchanges
 
 June 27, 2025
 	China has the option to approve export applications for controlled items. The US would also lift several restrictive measures.
 
+## Growth Metrics
 
 ## Quarter on Quarter Growth
 
