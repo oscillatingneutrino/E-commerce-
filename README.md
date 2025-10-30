@@ -46,7 +46,9 @@ In order to determine the growth of TEMU, the Quarter on Quarter Growth (QOQ) an
 
 In contrast, the QOQ initially also gives the notion that tariffs are responsible for a decrease in quarter on quarter growth, but one can note an emerging pattern: growth decreases during the transition between the last year's fourth quarter, and the next year's first quarter, before rebounding during the second quarter, decreasing during the 3rd quarter, and then returning to a high peak in the fourth quarter. This trend seems to instead imply that QOQ behavior is more so influenced by consumer spending habits, rather than external factors. One should note that the fourth quarter encapsulates the holidays, the time during which clients are more inclined to spend on gifts. The quarter after would then reflect the time during which consumers are less incentivised to spend, a behavior that begins to end by the time the second quarter rolls around. That being said, one can note a decrease in the QOQ value during the beginning of tariffs relative to other years, which indicates the overall decrease in the amount that individuals are willing to spend on products from TEMU, which is likely a result of tariffs.
 
-¥
+![Net](png/Net.png)
+
+In the above graph, Revenue is presented next to the Net cash generated from operting activities and others. One can note that both follow the same trends; they have similar peaks and troughs throughout each quarter. Desipite the large difference between both lines numerically, this graphic suggests that both revenue and Net cash generated from operating activities and others are influenced by consumer values and tariffs, especially as shown during the dip during Q1 of 2025.
 
 
 ## Profitability Ratios
