@@ -3,6 +3,14 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from matplotlib import pylab as plb
 
+# It's important to note that Excel and Google Sheets store dates as a number, where day 1 is 1/1/1900 (In Excel; 12/30/1899 for Google Sheets)
+# You can these numbers by switching format, from date format to the number format
+# The dates for tariffs can then be easily input and worked into a dataset, since they are treated as a number
+# This requires changing the time of your data into the number format
+# This makes the process of plotting specific dates - especially when you are given weekly data easier - in my opinion;
+# In the following code, the above was done, but the numbers corresponding to certain dates were visually changed back to dates
+
+
 df = pd.read_csv('/Users/User/Path/google_data.csv')
 
 df_75 = df.tail(int(len(df) * 0.17))
