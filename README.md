@@ -66,11 +66,11 @@ Generally speaking, a marketing efficiency ratio (MER) above 3.00 is considered 
 
 ## Liquidity Metrics
 
-## Cash Flow Metrics
-
-![Cash](png/cashes.png)
+![Liquid](png/Liquid.png)
 
 In order to better appreciate the trends in cash flow metrics, receivables from online payment forms was scaled by a factor of 10. Likewise, short term investments were scaled down by a factor of 10. In doing so, one can note an increment in both the receivables, in the cash and cash equivalents, and the short term investments during Q1 2025. Unlike most of the other metrics previously discussed, the aforementioned metrics displayed an increment during the period meant to represent the time of the harshest tariffs. This trend implies both that TEMU's assets remained intact throughout the course of tariffs and they continued to profit throughout the first Quarter of 2025 and that the company prefers liquidity, opting instead to have a cushion in the case of economic downturn (as was expected ealier in the year with Trump's announcement of tariffs). 
+
+## Cash Flow Metrics
 
 ## Trend in Public Interest
 Currently, TEMU - for reasons related to security - does not publically publish data relating to customer retention or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. 
