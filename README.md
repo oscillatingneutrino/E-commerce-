@@ -59,6 +59,10 @@ In the graphic, the operating margin and the gross margin are compared throughou
 
 Interestingly enough, the gross margin experienced no major effect from tariffs, and as a matter of fact, had a slight increase (0.41%) during the period of time when tariffs were meant to be in full force. All major decreases in the gross margin (Q1 2023 to Q2 2023, Q2 2024 to Q3 2024) occured prior to the introduction of tariffs. Beyond that, the gross margin remains within the same range of numbers throughout the course of the studied quarters. This means that despite tariffs, TEMU has largely remained efficient in the way it manages its expenses and in generating a net profit. Furthermore, the relatively constant metrics imply that tariffs have not affected the operation of TEMU, and decreases in profitability are more likely to be affected by other sources, such as competition from other e-commerce sites and the opinions of online shoppers.
 
+
+![Marketing Efficiency Ratio](png/marketingefficiencyratio.png)
+
+
 ## Cash Flow Metrics
 
 ## Trend in Public Interest
