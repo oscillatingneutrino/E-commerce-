@@ -72,6 +72,8 @@ In order to better appreciate the trends in cash flow metrics, receivables from 
 
 ## Cash Flow Metric
 
+![netcash](png/netcash.png)
+
 ## Trend in Public Interest
 Currently, TEMU - for reasons related to security - does not publically publish data relating to customer retention or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. 
 
