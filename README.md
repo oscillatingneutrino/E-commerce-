@@ -94,6 +94,7 @@ Being a foreign site, TEMU must not only face tariffs, but also a growing sense 
 
 The issues with outreach are not limited to a foreign audience, however; TEMU must also compete with other sites, such as JD.com, Alibaba, and Douyin, the latter of which has integrated itself with social media. Thus, it is recommended to invest in appealing to their non-foreign audience and seek to popularize themselves further through individuals conducting live-streams, showcasing themselves using the site.
 
+Further comments on TEMU's practices cannot be made; their current model of connecting consumers directly to manufacturers is in large part the reason for their high degree of success; changing this model by offshoring manufacturing to other countries with lower tariff rates is non-sensical and would add unneeded layers to communication and costs, when production of items on TEMU is already low enough. The only recommendation one can truly make outside of marketing is to maintain a portion of its assets as liquid in the case of changes in economic policy, as doing so would allow a company to maintain the funds required to keep functioning.
 
 ## Clarifications
 PDD Holding's (the parent company of TEMU) does not actively separate the finances for TEMU from their other ventures. As such, the data being used for this analysis only works as an intermediate for the actual revenue of TEMU. The currency used in this project is the Chinese Yuan; all of the reported numbers were given as unaudited.
