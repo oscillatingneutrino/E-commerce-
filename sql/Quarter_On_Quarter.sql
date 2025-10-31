@@ -25,7 +25,7 @@ WITH qoq AS (
 		(Online_marketing_services_and_others + 
 			transaction_services)
 				/sales_and_marketing_expenses 
-					AS marketing_cost_ratio,
+					AS marketing_efficiency_ratio,
 	                
 		100 * operating_profit / 
 			(Online_marketing_services_and_others + 
