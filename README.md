@@ -74,6 +74,8 @@ In order to better appreciate the trends in cash flow metrics, receivables from 
 
 ![netcash](png/netcash.png)
 
+The amount of cash generated from both inventory and online sales fololows a predicatable pattern: there is a peak in performance during Q4 of the previous year, and a trough during Q1. Although this seems to be the trend, the net amount of cash flow saw one of the worst performances during the quarter where tariffs were being introduced, implying a decrease in the amount of customers willling to spend. That being said, overall, the amount of cash being generated in this manner follows a net positive trend, with a visible rise during Q2 2025, during the relaxation of tariffs.
+
 ## Trend in Public Interest
 Currently, TEMU - for reasons related to security - does not publically publish data relating to customer retention or any sort of marketing related metrics. As such, interpolation on the use of TEMU is based on data provided from Google Trends from the beginning of Q1, 2023 to Q2, 2025. 
 
