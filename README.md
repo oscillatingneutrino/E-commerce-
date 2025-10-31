@@ -1,4 +1,4 @@
-# Analysis of E-Commerce Sales and the Impact of Tariffs
+# Analysis of E-Commerce Sales and the Impact of Tariffs on TEMU
 
 ## Table of Contents
 - [Project Background](#Project-Background)
