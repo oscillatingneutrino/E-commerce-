@@ -1,6 +1,7 @@
 # Analysis of E-Commerce Sales and the Impact of Tariffs on TEMU
 
 ## Table of Contents
+- [Executive Summary](#Executive-Summary)
 - [Project Background](#Project-Background)
 - [Tariffs Affecting E-Commerce From China](#Tariffs-Affecting-E-Commerce-From-China)
 - [Growth Metrics](#Growth-Metrics)
@@ -13,6 +14,8 @@
 - [Recommendations](#Recommendations)
 - [Clarifications](#Clarifications)
 - [References](#References)
+
+## Executive Summary
 
 ## Project Background
 TEMU, the 2nd ranked E-Commerce site has seen recent growth amongst the general public as a result of its convenience and affordability. Being a Chinese site, it is affected by new tariffs. This project analyzes the effects of tariffs on profitability. In doing so, this project hopes to both understand the effect on international electronic commercialism and the possible effects it has had on consumer spending habits.
@@ -97,7 +100,7 @@ The issues with outreach are not limited to a foreign audience, however; TEMU mu
 Further comments on TEMU's practices cannot be made; their current model of connecting consumers directly to manufacturers is in large part the reason for their high degree of success; changing this model by offshoring manufacturing to other countries with lower tariff rates is non-sensical and would add unneeded layers to communication and costs, when production of items on TEMU is already low enough. The only recommendation one can truly make outside of marketing is to maintain a portion of its assets as liquid in the case of changes in economic policy, as doing so would allow a company to maintain the funds required to keep functioning.
 
 ## Clarifications
-PDD Holding's (the parent company of TEMU) does not actively separate the finances for TEMU from their other ventures. As such, the data being used for this analysis only works as an intermediate for the actual revenue of TEMU. The currency used in this project is the Chinese Yuan; all of the reported numbers were given as unaudited.
+PDD Holding's (the parent company of TEMU) does not actively separate the finances for TEMU from their other ventures. Therefore, the data being used for this analysis only works as an intermediate for the actual revenue of TEMU; the results should only be taken as approximations. The currency used in this project is the Chinese Yuan; all of the reported numbers were given as unaudited.
 
 ## References
 
