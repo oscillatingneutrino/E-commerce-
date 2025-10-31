@@ -62,6 +62,8 @@ Interestingly enough, the gross margin experienced no major effect from tariffs,
 
 ![Marketing Efficiency Ratio](png/marketingefficiencyratio.png)
 
+Generally speaking, a marketing efficiency ratio (MER) above 3.00 is considered a valueable goal to attain, as it serves as a benchmark for an efficient marketing strategy. This number, however, is usually higher for e-commerce (around 5.0), as  In the above chart, one can note that the MER continues to be below the 5.0 threshold; the highest value it attains is below 4.0. TEMU's situation, however, is slightly different than other e-commerce sites; beyond competition from other e-commerce sites, TEMU, as a mature brand, continues to spend a lot of revenue on ads in order to reach a wider audience (e.g. ads during 2024 during the Super Bowl, which are estimated to have cost $21 million dollars). As such, it is expected that TEMU should have a low MER value. That being said, a low point was hit during Q1 of 2025. During this time, TEMU is estimated to have spent about $59 M on marketing in sites such as Snapchat and Facebook<sup>1</sup>. This large amount of money being spent on ads is indicative of needing to spend more money to attract individuals who were turned away by the prospect of having to spend just as much money on a product from TEMU as they would from a non-foreign company.
+
 
 ## Cash Flow Metrics
 
