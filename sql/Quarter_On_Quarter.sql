@@ -12,7 +12,7 @@ WITH qoq AS (
 				OVER (ORDER BY Marker ASC) * 100) 
 					AS qoqr,
 
-	-- Revenue Based Metrics
+	-- 
 	
 		Online_marketing_services_and_others + 
 			transaction_services 
@@ -33,14 +33,14 @@ WITH qoq AS (
 					AS operating_margin,
                 
 
--- Metrics for plotting
-		Receivables_from_online_payment_platforms, -- plot this against revenue
+
+		Receivables_from_online_payment_platforms, 
 		
-	    Cash_and_cash_equivalents, -- plot this vs revenue
+	    Cash_and_cash_equivalents,
 	    
-	    short_term_investments, -- plot this vs. quarters
+	    short_term_investments, 
 	    
-	    Net_cash_generated_from_operating_activities -- plot this vs. quarters
+	    Net_cash_generated_from_operating_activities 
 	    
 	    
     FROM temu
