@@ -12,7 +12,7 @@
 - [Trend in Public Interest](#Trend-In-Public-Interest)
 - [Recommendations](#Recommendations)
 - [Clarifications](#Clarifications)
-- [Acknowledgments](#Acknowledgements)
+- [References](#References)
 
 ## Project Background
 TEMU, the 2nd ranked E-Commerce site has seen recent growth amongst the general public as a result of its convenience and affordability. Being a Chinese site, it is affected by new tariffs. This project analyzes the effects of tariffs on profitability. In doing so, this project hopes to both understand the effect on international electronic commercialism and the possible effects it has had on consumer spending habits.
@@ -99,4 +99,11 @@ Further comments on TEMU's practices cannot be made; their current model of conn
 ## Clarifications
 PDD Holding's (the parent company of TEMU) does not actively separate the finances for TEMU from their other ventures. As such, the data being used for this analysis only works as an intermediate for the actual revenue of TEMU. The currency used in this project is the Chinese Yuan; all of the reported numbers were given as unaudited.
 
-## Acknowledgements
+## References
+
+A note of gratitude is extended to PDD Holdings for releasing the data required to make this project possible.
+
+The data used during this analysis was taken from:
+Quarterly results. PDD Holdings. (n.d.). https://investor.pddholdings.com/financial-information/quarterly-results
+
+[1] Leading shopping brands in the U.S. Q1 2025: A Sensor Tower Analysis. Sensor Tower - Market-Leading Digital Intelligence. (n.d.). https://sensortower.com/blog/2025-q1-us-leading-3-Shopping-brands 
