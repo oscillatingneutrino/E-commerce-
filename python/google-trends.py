@@ -26,7 +26,8 @@ df_75['Month'] = pd.to_datetime(df_75[x], unit='D', origin = '1899-12-30') #To v
 plt.figure(figsize=(10,5), dpi = 200)
 
 plt.plot(df_75['Month'], df_75[y],label ='Search Count', linewidth=2.5)
-#
+
+#Calculation of the trendline using np.polyfit
 z = np.polyfit(df_75[x], df_75[y] , 1)
 
 p = np.poly1d(z)
